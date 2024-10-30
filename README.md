@@ -14,6 +14,12 @@
 
 Se você está procurando uma maneira de **melhorar a infraestrutura** de TI da sua empresa ou deseja realizar **auditorias** e **consultorias** para garantir a eficiência e segurança do seu ambiente, não hesite em nos contatar:
 
+## 🔗 **Conecte-se Comigo**:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
+
+
 📍 Localização: Maringá, Paraná, Brasil  
 📱 Contato: +55 44 9 8859-7001 | +55 11 9 1335-3137  
 📧 E-mail: oeliasandrade@gmail.com  
