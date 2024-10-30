@@ -9,6 +9,25 @@
 
 ![Evolução IT](https://img.shields.io/badge/Evolução_IT-Consultoria_Brasil-brightgreen?style=for-the-badge&logo=github)
 
+
+## 📞 Entre em Contato
+
+Se você está procurando uma maneira de **melhorar a infraestrutura** de TI da sua empresa ou deseja realizar **auditorias** e **consultorias** para garantir a eficiência e segurança do seu ambiente, não hesite em nos contatar:
+
+📍 Localização: Maringá, Paraná, Brasil  
+📱 Contato: +55 44 9 8859-7001 | +55 11 9 1335-3137  
+📧 E-mail: oeliasandrade@gmail.com  
+🌐 Site Oficial: [www.evolucaoit.com.br](http://www.evolucaoit.com.br)
+
+---
+
+# 🚀 Vamos Agendar uma Conversa!
+
+Estamos prontos para discutir como podemos ajudar sua empresa a alcançar um novo nível de eficiência e segurança na gestão de TI. Agende uma conversa conosco para saber mais!
+
+📅 [Clique aqui para agendar uma call de 30 minutos!](https://calendly.com/oeliasandrade/30min)
+
+
 ## 🏆 Nossa Metodologia de Resultados
 Na Evolução IT, nos baseamos em **boas práticas** como **ITIL** para garantir a **melhoria contínua** dos processos e o alinhamento da infraestrutura de TI às necessidades do negócio. Atuamos em áreas como:
 
@@ -104,20 +123,3 @@ A **Evolução IT** oferece serviços especializados de **consultoria** para emp
 - **Recomendações de melhoria contínua**: Oferecemos soluções práticas e viáveis para melhorar a eficiência operacional, com base nas melhores práticas do mercado.
 
 ---
-
-## 📞 Entre em Contato
-
-Se você está procurando uma maneira de **melhorar a infraestrutura** de TI da sua empresa ou deseja realizar **auditorias** e **consultorias** para garantir a eficiência e segurança do seu ambiente, não hesite em nos contatar:
-
-📍 Localização: Maringá, Paraná, Brasil  
-📱 Contato: +55 44 9 8859-7001 | +55 11 9 1335-3137  
-📧 E-mail: oeliasandrade@gmail.com  
-🌐 Site Oficial: [www.evolucaoit.com.br](http://www.evolucaoit.com.br)
-
----
-
-# 🚀 Vamos Agendar uma Conversa!
-
-Estamos prontos para discutir como podemos ajudar sua empresa a alcançar um novo nível de eficiência e segurança na gestão de TI. Agende uma conversa conosco para saber mais!
-
-📅 [Clique aqui para agendar uma call de 30 minutos!](https://calendly.com/oeliasandrade/30min)
