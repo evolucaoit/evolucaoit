@@ -2,6 +2,9 @@
 
 **Apresentação:**
 
+![profile-pic (14)](https://github.com/user-attachments/assets/dac99ac7-c043-4852-b989-eff0d6b575f3)
+
+
 ✨ Olá, sou **Elias Andrade**, profissional de Tecnologia da Informação com 14 anos de experiência, iniciando minha carreira em 2010. Ao longo desses anos, adquiri um vasto conhecimento em **infraestrutura de TI**, com foco em ambientes **Windows Server**, **Linux**, **virtualização**, **automação de redes** e **segurança da informação**. Fundada em 2018, a **Evolução IT** surgiu para atender a demandas específicas de um cliente do setor de **saúde e bem-estar**, e desde então, nossa missão tem sido entregar soluções que otimizam operações internas, garantindo confiabilidade, segurança e desempenho.
 
 ![Evolução IT](https://img.shields.io/badge/Evolução_IT-Consultoria_Brasil-brightgreen?style=for-the-badge&logo=github)
