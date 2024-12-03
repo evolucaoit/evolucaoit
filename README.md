@@ -12,8 +12,8 @@
 
 ### 📈 Estatísticas no GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evolucaoit&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evolucaoit&show_icons=true&theme=dark)
 
 
 ## 📞 Entre em Contato
