@@ -9,6 +9,9 @@
 
 ![Evolução IT](https://img.shields.io/badge/Evolução_IT-Consultoria_Brasil-brightgreen?style=for-the-badge&logo=github)
 
+### 📈 **Estatísticas no GitHub**:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evolucaoit&count_private=true&show_icons=true&hide_title=true&hide=prs)
+
 
 ## 📞 Entre em Contato
 
