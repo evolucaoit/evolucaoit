@@ -9,8 +9,11 @@
 
 ![Evolução IT](https://img.shields.io/badge/Evolução_IT-Consultoria_Brasil-brightgreen?style=for-the-badge&logo=github)
 
-### 📈 **Estatísticas no GitHub**:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evolucaoit&count_private=true&show_icons=true&hide_title=true&hide=prs)
+
+### 📈 Estatísticas no GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaos4455&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaos4455&show_icons=true&theme=dark)
 
 
 ## 📞 Entre em Contato
